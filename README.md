@@ -1,0 +1,2 @@
+# SoftKeyBoard
+SoftKeyBoard - WiredGTK plugin
